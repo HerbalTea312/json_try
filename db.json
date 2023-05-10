@@ -1,82 +1,58 @@
 {
                 "dreams": [
                     {
-                        "date": "2023-04-26",
+                        "date": "2023-04-25",
+                        "duration_audio": 12.0,
                         "emotion": [
-                            {
-                                "name": "Страх"
-                            },
                             {
                                 "name": "Счастье"
-                            }
-                        ],
-                        "id": 1,
-                        "image": {
-                            "file_name": "1.png"
-                        },
-                        "title": "POP"
-                    },
-                    {
-                        "date": "2023-04-26",
-                        "emotion": [
+                            },
                             {
                                 "name": "Ненависть"
-                            },
-                            {
-                                "name": "Счастье"
-                            }
-                        ],
-                        "id": 90,
-                        "image": {
-                            "file_name": "11.png"
-                        },
-                        "title": "POP"
-                    },
-                    {
-                        "date": "2023-04-26",
-                        "emotion": null,
-                        "id": 92,
-                        "image": null,
-                        "title": "CORN"
-                    },
-                    {
-                        "date": "2023-04-26",
-                        "emotion": [
-                            {
-                                "name": "Страх"
-                            },
-                            {
-                                "name": "Счастье"
                             }
                         ],
                         "id": 1,
-                        "image": {
-                            "file_name": "1.png"
-                        },
-                        "title": "POP"
+                        "image":
+                        {
+                            "cover": true,
+                            "name_neural_network": "DALL-E"
+                        }
                     },
                     {
                         "date": "2023-04-26",
+                        "duration_audio": 13.0,
                         "emotion": [
                             {
-                                "name": "Страх"
+                                "name": "Злость"
                             },
                             {
-                                "name": "Счастье"
+                                "name": "Ненависть"
                             }
                         ],
-                        "id": 90,
-                        "image": {
-                            "file_name": "11.png"
-                        },
-                        "title": "POP"
+                        "id": 2,
+                        "image":
+                        {
+                            "cover": true,
+                            "name_neural_network": "Dream"
+                        }
                     },
                     {
                         "date": "2023-04-26",
-                        "emotion": null,
-                        "id": 92,
-                        "image": null,
-                        "title": "CORN"
+                        "duration_audio": 13.0,
+                        "emotion": [
+                            {
+                                "name": "Злость"
+                            },
+                            {
+                                "name": "Ненависть"
+                            }
+                        ],
+                        "id": 2,
+                        "image": null
+                        // {
+                        //     "cover": true,
+                        //     "name_neural_network": "Dream"
+                        // }
                     }
                 ]
             }
