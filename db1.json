@@ -1,0 +1,58 @@
+{
+                "dreams": [
+                    {
+                        "date": "2023-04-25",
+                        "duration_audio": 12.0,
+                        "emotion": [
+                            {
+                                "name": "Счастье"
+                            },
+                            {
+                                "name": "Ненависть"
+                            }
+                        ],
+                        "id": 1,
+                        "image":
+                        {
+                            "cover": true,
+                            "name_neural_network": "DALL-E"
+                        }
+                    },
+                    {
+                        "date": "2023-04-26",
+                        "duration_audio": 13.0,
+                        "emotion": [
+                            {
+                                "name": "Злость"
+                            },
+                            {
+                                "name": "Ненависть"
+                            }
+                        ],
+                        "id": 2,
+                        "image":
+                        {
+                            "cover": true,
+                            "name_neural_network": "Dream"
+                        }
+                    },
+                    {
+                        "date": "2023-04-26",
+                        "duration_audio": 13.0,
+                        "emotion": [
+                            {
+                                "name": "Злость"
+                            },
+                            {
+                                "name": "Ненависть"
+                            }
+                        ],
+                        "id": 2,
+                        "image": null
+                        // {
+                        //     "cover": true,
+                        //     "name_neural_network": "Dream"
+                        // }
+                    }
+                ]
+            }
